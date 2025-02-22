@@ -56,9 +56,10 @@ dog-breeds-app/
 
  ### `1️⃣ Clone o repositório`
 
-git clone https://github.com/seu-usuario/dog-breeds-app.git
-cd dog-breeds-app
-
+git clone https://github.com/victorbterra/info-dogs.git
+```
+cd info-dogs
+```
 ### `2️⃣ Configuração do Backend`
 ```
 cd backend
